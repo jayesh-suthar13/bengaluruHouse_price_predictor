@@ -1,1 +1,10 @@
-
+streamlit==1.44.1
+pandas==2.2.3
+scikit-learn==1.6.1
+numpy==2.2.4
+matplotlib==3.10.1
+seaborn==0.13.2
+altair==5.5.0
+pydeck==0.9.1
+protobuf==5.29.4
+watchdog==6.0.0
